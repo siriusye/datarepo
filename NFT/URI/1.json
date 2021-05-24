@@ -1,6 +1,6 @@
 {
-    "description": "My NFT",
-    "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-    "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
+    "description": "NFT 3D",
+    "model_url": "https://raw.githubusercontent.com/siriusye/datarepo/master/NFT/Model/1.glb",
+    "image": "https://raw.githubusercontent.com/siriusye/datarepo/master/NFT/Image/1.PNG",
     "name": "My NFT 0"
-  },
+}
